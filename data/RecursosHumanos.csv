@@ -1,0 +1,885 @@
+Año;Unidad;Institucion;JURISDICCION;SUBJURISDICCION;Cargo /Hrs;Tipo Contratación;Cantidad Cargos
+2025;Poder Legislativo Nacional;Administración Central;Poder Legislativo;;CARGOS;PERMANENTES;9774
+2025;Auditoría General de la Nación;Administración Central;Poder Legislativo;;CARGOS;PERMANENTES;1779
+2025;Poder Judicial de la Nación;Administración Central;Poder Judicial;;CARGOS;PERMANENTES;24869
+2025;Ministerio Público;Administración Central;Ministerio Público;;CARGOS;PERMANENTES;10685
+2025;Secretaría General;Administración Central;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;796
+2025;Secretaría Legal y Técnica;Administración Central;Presidencia de la Nación;Secretaría Legal y Técnica;CARGOS;PERMANENTES;488
+2025;Secretaría de Inteligencia de Estado;Administración Central;Presidencia de la Nación;Secretaría de Inteligencia de Estado;CARGOS;PERMANENTES;5
+2025;Sindicatura General de la Nación;Administración Central;Presidencia de la Nación;;CARGOS;PERMANENTES;430
+2025;Autoridad Regulatoria Nuclear;Administración Central;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;334
+2025;Jefatura de Gabinete de Ministros;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;735
+2025;Secretaría de Innovación, Ciencia y Tecnología;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;457
+2025;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1686
+2025;Consejo Nacional de Investigaciones Científicas y Técnicas;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;17900
+2025;Jefatura de Gabinete de Ministros;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;3121
+2025;Comisión Nacional de Actividades Espaciales;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;267
+2025;Administración de Parques Nacionales;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1561
+2025;Instituto Nacional de Asuntos Indígenas;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;83
+2025;Instituto Nacional de Promoción Turística;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;40
+2025;Secretaría de Innovación, Ciencia y Tecnología;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;43
+2025;Secretaría de Innovación, Ciencia y Tecnología;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;141
+2025;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2208
+2025;Dirección Nacional de Migraciones;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2794
+2025;Agencia de Administración de Bienes del Estado;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;215
+2025;Ente Nacional de Comunicaciones;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;626
+2025;Agencia de Acceso a la Información Pública;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;34
+2025;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administración Central;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;PERMANENTES;2566
+2025;Ministerio de Justicia;Administración Central;Ministerio de Justicia;;CARGOS;PERMANENTES;1948
+2025;Procuración del Tesoro de la Nación;Administración Central;Ministerio de Justicia;;CARGOS;PERMANENTES;241
+2025;Centro Internacional para la Promoción de los Derechos Humanos;Administración Central;Ministerio de Justicia;;CARGOS;PERMANENTES;33
+2025;Ministerio de Justicia;Administración Central;Ministerio de Justicia;;CARGOS;PERMANENTES;320
+2025;Ministerio de Seguridad;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;840
+2025;Subsecretaría de Asuntos Penitenciarios;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;16654
+2025;Policía Federal Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;31854
+2025;Gendarmería Nacional Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;40306
+2025;Prefectura Naval Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;23103
+2025;Policía de Seguridad Aeroportuaria;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;5657
+2025;Agencia Nacional de Materiales Controlados;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;54
+2025;Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;141
+2025;Ministerio de Defensa;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;753
+2025;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;59648
+2025;Estado Mayor General de la Armada Argentina;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;25059
+2025;Estado Mayor General de la Fuerza Aérea Argentina;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;21717
+2025;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;159
+2025;Instituto Geográfico Nacional;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;199
+2025;Servicio Meteorológico Nacional;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;436
+2025;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;156
+2025;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;7119
+2025;Instituto Nacional del Agua;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;405
+2025;Agencia Nacional de Seguridad Vial;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;351
+2025;Comisión Nacional de Valores;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;253
+2025;Superintendencia de Seguros de la Nación;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;338
+2025;Dirección Nacional de Vialidad;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;1842
+2025;Instituto Nacional de Tecnología Agropecuaria;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;6117
+2025;Instituto Nacional de Investigación y Desarrollo Pesquero;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;276
+2025;Instituto Nacional de Tecnología Industrial;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;2403
+2025;Instituto Nacional de Vitivinicultura;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;465
+2025;Tribunal de Tasaciones de la Nación;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2025;Ente Nacional de Obras Hídricas de Saneamiento;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;24
+2025;Instituto Nacional de Semillas;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;138
+2025;Tribunal Fiscal de la Nación;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;129
+2025;Instituto Nacional de la Propiedad Industrial;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;174
+2025;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;1785
+2025;Servicio Geológico Minero Argentino;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;322
+2025;Ente Nacional Regulador del Gas;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;340
+2025;Ente Nacional Regulador de la Electricidad;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;76
+2025;Organismo Regulador de Seguridad de Presas;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;11
+2025;Secretaría de Transporte;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2025;Organismo Regulador del Sistema Nacional de Aeropuertos;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;80
+2025;Administración Nacional de Aviación Civil;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;1767
+2025;Junta de Seguridad en el Transporte;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;421
+2025;Ministerio de Salud;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;6016
+2025;Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Lic. Laura Bonaparte';Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;260
+2025;Hospital Nacional 'Baldomero Sommer';Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;705
+2025;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;831
+2025;Instituto Nacional Central Único Coordinador de Ablación e Implante;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;151
+2025;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;1166
+2025;Hospital Nacional 'Profesor Alejandro Posadas';Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;2573
+2025;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;522
+2025;Instituto Nacional de Rehabilitación Psicofísica del Sur 'Dr. Juan Otimio Tesone';Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;244
+2025;Superintendencia de Servicios de Salud;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;794
+2025;Secretaría de Calidad en Salud;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;34
+2025;Agencia Nacional de Discapacidad;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;781
+2025;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;1673
+2025;Secretaría Nacional de Niñez, Adolescencia y Familia;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;4970
+2025;Secretaría de Trabajo, Empleo y Seguridad Social;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;3293
+2025;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;1161
+2025;Fundación Miguel Lillo;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;308
+2025;Teatro Nacional Cervantes;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;257
+2025;Instituto Nacional de Asociativismo y Economía Social;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;344
+2025;Biblioteca Nacional Doctor Mariano Moreno;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;119
+2025;Instituto Nacional del Teatro;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;129
+2025;Fondo Nacional de las Artes;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;46
+2025;Comisión Nacional de Evaluación y Acreditación Universitaria;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;85
+2025;Administración Nacional de la Seguridad Social;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;12696
+2025;Superintendencia de Riesgos del Trabajo;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;398
+2025;Ministerio de Desregulación y Transformación del Estado;Administración Central;Ministerio de Desregulación y Transformación del Estado;;CARGOS;PERMANENTES;538
+2025;Poder Legislativo Nacional;Administración Central;Poder Legislativo;;CARGOS;TEMPORARIOS;4628
+2025;Auditoría General de la Nación;Administración Central;Poder Legislativo;;CARGOS;TEMPORARIOS;66
+2025;Poder Judicial de la Nación;Administración Central;Poder Judicial;;CARGOS;TEMPORARIOS;2090
+2025;Ministerio Público;Administración Central;Ministerio Público;;CARGOS;TEMPORARIOS;266
+2025;Jefatura de Gabinete de Ministros;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;1
+2025;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;52
+2025;Instituto Nacional de Asuntos Indígenas;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;8
+2025;Dirección Nacional de Migraciones;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;19
+2025;Ente Nacional de Comunicaciones;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;6
+2025;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administración Central;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;TEMPORARIOS;142
+2025;Policía Federal Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;695
+2025;Gendarmería Nacional Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;442
+2025;Ministerio de Defensa;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;438
+2025;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;642
+2025;Estado Mayor General de la Armada Argentina;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;207
+2025;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;56
+2025;Servicio Meteorológico Nacional;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;4
+2025;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;23
+2025;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;TEMPORARIOS;106
+2025;Dirección Nacional de Vialidad;Administración Central;Ministerio de Economía;;CARGOS;TEMPORARIOS;8
+2025;Instituto Nacional de Tecnología Agropecuaria;Administración Central;Ministerio de Economía;;CARGOS;TEMPORARIOS;1028
+2025;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Administración Central;Ministerio de Economía;;CARGOS;TEMPORARIOS;16
+2025;Hospital Nacional 'Baldomero Sommer';Administración Central;Ministerio de Salud;;CARGOS;TEMPORARIOS;12
+2025;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;3
+2025;Secretaría Nacional de Niñez, Adolescencia y Familia;Administración Central;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;14
+2025;Secretaría General;Administración Central;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;PERMANENTES;3000
+2025;Secretaría de Inteligencia de Estado;Administración Central;Presidencia de la Nación;Secretaría de Inteligencia de Estado;HORAS CÁTEDRA;PERMANENTES;6500
+2025;Administración de Parques Nacionales;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;10000
+2025;Ente Nacional de Comunicaciones;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;1650
+2025;Agencia de Acceso a la Información Pública;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;3000
+2025;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administración Central;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;HORAS CÁTEDRA;PERMANENTES;11164
+2025;Subsecretaría de Asuntos Penitenciarios;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;7277
+2025;Prefectura Naval Argentina;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;360
+2025;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;8769
+2025;Estado Mayor General de la Armada Argentina;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;40522
+2025;Estado Mayor General de la Fuerza Aérea Argentina;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;18913
+2025;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;587
+2025;Servicio Meteorológico Nacional;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;5767
+2025;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;9000
+2025;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;4826
+2025;Secretaría Nacional de Niñez, Adolescencia y Familia;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;10000
+2025;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;900
+2025;Teatro Nacional Cervantes;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;540
+2025;Biblioteca Nacional Doctor Mariano Moreno;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;264
+2025;Sindicatura General de la Nación;Administración Central;Presidencia de la Nación;;HORAS CÁTEDRA;TEMPORARIAS;1300
+2025;Autoridad Regulatoria Nuclear;Administración Central;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;400
+2025;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;8600
+2025;Ministerio de Justicia;Administración Central;Ministerio de Justicia;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2025;Ministerio de Seguridad;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;10000
+2025;Policía Federal Argentina;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;13500
+2025;Policía de Seguridad Aeroportuaria;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;11800
+2025;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;24698
+2025;Estado Mayor General de la Fuerza Aérea Argentina;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1618
+2025;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1487
+2025;Ministerio de Economía;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;27348
+2025;Agencia Nacional de Seguridad Vial;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2025;Tribunal de Tasaciones de la Nación;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;400
+2025;Administración Nacional de Aviación Civil;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;24036
+2025;Junta de Seguridad en el Transporte;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;8000
+2025;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Administración Central;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;458
+2025;Agencia Nacional de Discapacidad;Administración Central;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;17000
+2025;Secretaría de Trabajo, Empleo y Seguridad Social;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;1000
+2025;Instituto Nacional de Asociativismo y Economía Social;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2025;Ministerio de Desregulación y Transformación del Estado;Administración Central;Ministerio de Desregulación y Transformación del Estado;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2025;Auditoría General de la Nación;Organismos Descentralizados;Poder Legislativo;;CARGOS;PERMANENTES;1779
+2025;Sindicatura General de la Nación;Organismos Descentralizados;Presidencia de la Nación;;CARGOS;PERMANENTES;430
+2025;Autoridad Regulatoria Nuclear;Organismos Descentralizados;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;334
+2025;Consejo Nacional de Investigaciones Científicas y Técnicas;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;17900
+2025;Jefatura de Gabinete de Ministros;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;3121
+2025;Comisión Nacional de Actividades Espaciales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;267
+2025;Administración de Parques Nacionales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1561
+2025;Instituto Nacional de Asuntos Indígenas;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;83
+2025;Instituto Nacional de Promoción Turística;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;40
+2025;Secretaría de Innovación, Ciencia y Tecnología;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;43
+2025;Secretaría de Innovación, Ciencia y Tecnología;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;141
+2025;Vicejefatura de Gabinete del Interior;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2208
+2025;Dirección Nacional de Migraciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2794
+2025;Agencia de Administración de Bienes del Estado;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;215
+2025;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;626
+2025;Agencia de Acceso a la Información Pública;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;34
+2025;Centro Internacional para la Promoción de los Derechos Humanos;Organismos Descentralizados;Ministerio de Justicia;;CARGOS;PERMANENTES;33
+2025;Ministerio de Justicia;Organismos Descentralizados;Ministerio de Justicia;;CARGOS;PERMANENTES;320
+2025;Agencia Nacional de Materiales Controlados;Organismos Descentralizados;Ministerio de Seguridad;;CARGOS;PERMANENTES;54
+2025;Instituto Geográfico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;PERMANENTES;199
+2025;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;PERMANENTES;436
+2025;Instituto Nacional del Agua;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;405
+2025;Agencia Nacional de Seguridad Vial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;351
+2025;Comisión Nacional de Valores;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;253
+2025;Superintendencia de Seguros de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;338
+2025;Dirección Nacional de Vialidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1842
+2025;Instituto Nacional de Tecnología Agropecuaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;6117
+2025;Instituto Nacional de Investigación y Desarrollo Pesquero;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;276
+2025;Instituto Nacional de Tecnología Industrial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;2403
+2025;Instituto Nacional de Vitivinicultura;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;465
+2025;Tribunal de Tasaciones de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2025;Ente Nacional de Obras Hídricas de Saneamiento;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;24
+2025;Instituto Nacional de Semillas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;138
+2025;Tribunal Fiscal de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;129
+2025;Instituto Nacional de la Propiedad Industrial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;174
+2025;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1785
+2025;Servicio Geológico Minero Argentino;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;322
+2025;Ente Nacional Regulador del Gas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;340
+2025;Ente Nacional Regulador de la Electricidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;76
+2025;Organismo Regulador de Seguridad de Presas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;11
+2025;Secretaría de Transporte;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2025;Organismo Regulador del Sistema Nacional de Aeropuertos;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;80
+2025;Administración Nacional de Aviación Civil;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1767
+2025;Junta de Seguridad en el Transporte;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;421
+2025;Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Lic. Laura Bonaparte';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;260
+2025;Hospital Nacional 'Baldomero Sommer';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;705
+2025;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;831
+2025;Instituto Nacional Central Único Coordinador de Ablación e Implante;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;151
+2025;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;1166
+2025;Hospital Nacional 'Profesor Alejandro Posadas';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;2573
+2025;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;522
+2025;Instituto Nacional de Rehabilitación Psicofísica del Sur 'Dr. Juan Otimio Tesone';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;244
+2025;Superintendencia de Servicios de Salud;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;794
+2025;Secretaría de Calidad en Salud;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;34
+2025;Agencia Nacional de Discapacidad;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;781
+2025;Fundación Miguel Lillo;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;308
+2025;Teatro Nacional Cervantes;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;257
+2025;Instituto Nacional de Asociativismo y Economía Social;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;344
+2025;Biblioteca Nacional Doctor Mariano Moreno;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;119
+2025;Instituto Nacional del Teatro;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;129
+2025;Fondo Nacional de las Artes;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;46
+2025;Comisión Nacional de Evaluación y Acreditación Universitaria;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;85
+2025;Superintendencia de Riesgos del Trabajo;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;398
+2025;Auditoría General de la Nación;Organismos Descentralizados;Poder Legislativo;;CARGOS;TEMPORARIOS;66
+2025;Instituto Nacional de Asuntos Indígenas;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;8
+2025;Dirección Nacional de Migraciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;19
+2025;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;6
+2025;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;TEMPORARIOS;4
+2025;Dirección Nacional de Vialidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;8
+2025;Instituto Nacional de Tecnología Agropecuaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;1028
+2025;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;16
+2025;Hospital Nacional 'Baldomero Sommer';Organismos Descentralizados;Ministerio de Salud;;CARGOS;TEMPORARIOS;12
+2025;Administración de Parques Nacionales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;10000
+2025;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;1650
+2025;Agencia de Acceso a la Información Pública;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;3000
+2025;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;5767
+2025;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;9000
+2025;Teatro Nacional Cervantes;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;540
+2025;Biblioteca Nacional Doctor Mariano Moreno;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;264
+2025;Sindicatura General de la Nación;Organismos Descentralizados;Presidencia de la Nación;;HORAS CÁTEDRA;TEMPORARIAS;1300
+2025;Autoridad Regulatoria Nuclear;Organismos Descentralizados;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;400
+2025;Agencia Nacional de Seguridad Vial;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2025;Tribunal de Tasaciones de la Nación;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;400
+2025;Administración Nacional de Aviación Civil;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;24036
+2025;Junta de Seguridad en el Transporte;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;8000
+2025;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Organismos Descentralizados;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;458
+2025;Agencia Nacional de Discapacidad;Organismos Descentralizados;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;17000
+2025;Instituto Nacional de Asociativismo y Economía Social;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2025;Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal;Org. Seguridad Social;Ministerio de Seguridad;;CARGOS;PERMANENTES;141
+2025;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Org. Seguridad Social;Ministerio de Defensa;;CARGOS;PERMANENTES;156
+2025;Administración Nacional de la Seguridad Social;Org. Seguridad Social;Ministerio de Capital Humano;;CARGOS;PERMANENTES;12696
+2025;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Org. Seguridad Social;Ministerio de Defensa;;CARGOS;TEMPORARIOS;23
+2024;Poder Legislativo Nacional;ADMINISTRACION CENTRAL;Poder Legislativo;;CARGOS;PERMANENTES;9663
+2024;Poder Judicial de la Nación;ADMINISTRACION CENTRAL;Poder Judicial;;CARGOS;PERMANENTES;27529
+2024;Ministerio Público;ADMINISTRACION CENTRAL;Ministerio Público;;CARGOS;PERMANENTES;12392
+2024;Secretaría General;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;933
+2024;Secretaría Legal y Técnica;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría Legal y Técnica;CARGOS;PERMANENTES;430
+2024;Secretaría de Inteligencia de Estado;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría de Inteligencia de Estado;CARGOS;PERMANENTES;2
+2024;Secretaría General;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;129
+2024;Secretaría General;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;114
+2024;Jefatura de Gabinete de Ministros;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;946
+2024;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';ADMINISTRACION CENTRAL;Ministerio de Salud;;CARGOS;PERMANENTES;295
+2024;Secretaría General;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;57
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;679
+2024;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;ADMINISTRACION CENTRAL;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;PERMANENTES;2578
+2024;Ministerio de Justicia;ADMINISTRACION CENTRAL;Ministerio de Justicia;;CARGOS;PERMANENTES;1843
+2024;Subsecretaría de Asuntos Penitenciarios;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;PERMANENTES;18154
+2024;Procuración del Tesoro de la Nación;ADMINISTRACION CENTRAL;Ministerio de Justicia;;CARGOS;PERMANENTES;241
+2024;Ministerio de Seguridad;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;PERMANENTES;795
+2024;Policía Federal Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;PERMANENTES;32775
+2024;Gendarmería Nacional Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;PERMANENTES;40702
+2024;Prefectura Naval Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;PERMANENTES;23393
+2024;Policía de Seguridad Aeroportuaria;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;PERMANENTES;6410
+2024;Ministerio de Defensa;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;PERMANENTES;755
+2024;Estado Mayor General del Ejército Argentino;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;PERMANENTES;57228
+2024;Estado Mayor General de la Armada Argentina;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;PERMANENTES;25060
+2024;Estado Mayor General de la Fuerza Aérea Argentina;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;PERMANENTES;20785
+2024;Estado Mayor Conjunto de las Fuerzas Armadas;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;PERMANENTES;188
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;CARGOS;PERMANENTES;5970
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;600
+2024;Secretaría de Transporte;ADMINISTRACION CENTRAL;Ministerio de Economía;;CARGOS;PERMANENTES;559
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;CARGOS;PERMANENTES;306
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;CARGOS;PERMANENTES;230
+2024;Ministerio de Capital Humano;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;CARGOS;PERMANENTES;1172
+2024;Secretaría de Innovación, Ciencia y Tecnología;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;433
+2024;Ministerio de Capital Humano;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;CARGOS;PERMANENTES;1398
+2024;Secretaría de Trabajo, Empleo y Seguridad Social;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;CARGOS;PERMANENTES;3300
+2024;Ministerio de Salud;ADMINISTRACION CENTRAL;Ministerio de Salud;;CARGOS;PERMANENTES;5689
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;423
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;4982
+2024;Ministerio de Capital Humano;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;CARGOS;PERMANENTES;357
+2024;Poder Legislativo Nacional;ADMINISTRACION CENTRAL;Poder Legislativo;;CARGOS;TEMPORARIOS;4955
+2024;Poder Judicial de la Nación;ADMINISTRACION CENTRAL;Poder Judicial;;CARGOS;TEMPORARIOS;1678
+2024;Ministerio Público;ADMINISTRACION CENTRAL;Ministerio Público;;CARGOS;TEMPORARIOS;266
+2024;Jefatura de Gabinete de Ministros;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;1
+2024;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';ADMINISTRACION CENTRAL;Ministerio de Salud;;CARGOS;TEMPORARIOS;25
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;52
+2024;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;ADMINISTRACION CENTRAL;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;TEMPORARIOS;142
+2024;Policía Federal Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;720
+2024;Gendarmería Nacional Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;504
+2024;Ministerio de Defensa;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;TEMPORARIOS;438
+2024;Estado Mayor General del Ejército Argentino;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;TEMPORARIOS;638
+2024;Estado Mayor General de la Armada Argentina;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;TEMPORARIOS;206
+2024;Estado Mayor Conjunto de las Fuerzas Armadas;ADMINISTRACION CENTRAL;Ministerio de Defensa;;CARGOS;TEMPORARIOS;119
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;CARGOS;TEMPORARIOS;98
+2024;Ministerio de Capital Humano;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;87
+2024;Secretaría de Trabajo, Empleo y Seguridad Social;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;1
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;20
+2024;Secretaría de Inteligencia de Estado;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría de Inteligencia de Estado;HORAS CÁTEDRA;PERMANENTES;6500
+2024;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;ADMINISTRACION CENTRAL;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;HORAS CÁTEDRA;PERMANENTES;13347
+2024;Subsecretaría de Asuntos Penitenciarios;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;7277
+2024;Prefectura Naval Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;1500
+2024;Estado Mayor General del Ejército Argentino;ADMINISTRACION CENTRAL;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;9336
+2024;Estado Mayor General de la Armada Argentina;ADMINISTRACION CENTRAL;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;35406
+2024;Estado Mayor General de la Fuerza Aérea Argentina;ADMINISTRACION CENTRAL;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;18913
+2024;Estado Mayor Conjunto de las Fuerzas Armadas;ADMINISTRACION CENTRAL;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;690
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;5000
+2024;Ministerio de Capital Humano;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;900
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;10000
+2024;Secretaría General;ADMINISTRACION CENTRAL;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;4000
+2024;Jefatura de Gabinete de Ministros;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;5600
+2024;Ministerio de Justicia;ADMINISTRACION CENTRAL;Ministerio de Justicia;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2024;Ministerio de Seguridad;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;10000
+2024;Policía Federal Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;13500
+2024;Gendarmería Nacional Argentina;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;6000
+2024;Policía de Seguridad Aeroportuaria;ADMINISTRACION CENTRAL;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;11800
+2024;Estado Mayor General del Ejército Argentino;ADMINISTRACION CENTRAL;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;24131
+2024;Estado Mayor General de la Fuerza Aérea Argentina;ADMINISTRACION CENTRAL;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1618
+2024;Estado Mayor Conjunto de las Fuerzas Armadas;ADMINISTRACION CENTRAL;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1978
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;18548
+2024;Secretaría de Transporte;ADMINISTRACION CENTRAL;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;2520
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;1200
+2024;Ministerio de Economía;ADMINISTRACION CENTRAL;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;80
+2024;Ministerio de Capital Humano;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;826
+2024;Secretaría de Trabajo, Empleo y Seguridad Social;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;1300
+2024;Vicejefatura de Gabinete del Interior;ADMINISTRACION CENTRAL;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;3000
+2024;Ministerio de Capital Humano;ADMINISTRACION CENTRAL;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;6250
+2024;Auditoría General de la Nación;ORGANISMOS DESCENTRALIZADOS;Poder Legislativo;;CARGOS;PERMANENTES;1779
+2024;Sindicatura General de la Nación;ORGANISMOS DESCENTRALIZADOS;Presidencia de la Nación;;CARGOS;PERMANENTES;430
+2024;Autoridad Regulatoria Nuclear;ORGANISMOS DESCENTRALIZADOS;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;334
+2024;Agencia Nacional de Discapacidad;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;779
+2024;Instituto Nacional de Asociativismo y Economía Social;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;344
+2024;Agencia de Administración de Bienes del Estado;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;215
+2024;Ente Nacional de Comunicaciones;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;626
+2024;Agencia de Acceso a la Información Pública;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;41
+2024;Secretaría de Agricultura, Ganadería y Pesca;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;55
+2024;Registro Nacional de las Personas;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2208
+2024;Dirección Nacional de Migraciones;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2794
+2024;Instituto Nacional de Asuntos Indígenas;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;91
+2024;Ministerio de Capital Humano;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;608
+2024;Centro Internacional para la Promoción de los Derechos Humanos;ORGANISMOS DESCENTRALIZADOS;Ministerio de Justicia;;CARGOS;PERMANENTES;35
+2024;Agencia Nacional de Materiales Controlados;ORGANISMOS DESCENTRALIZADOS;Ministerio de Seguridad;;CARGOS;PERMANENTES;54
+2024;Instituto Geográfico Nacional;ORGANISMOS DESCENTRALIZADOS;Ministerio de Defensa;;CARGOS;PERMANENTES;199
+2024;Servicio Meteorológico Nacional;ORGANISMOS DESCENTRALIZADOS;Ministerio de Defensa;;CARGOS;PERMANENTES;413
+2024;Comisión Nacional de Energía Atómica;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;3228
+2024;Comisión Nacional de Valores;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;253
+2024;Superintendencia de Seguros de la Nación;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;338
+2024;Instituto Nacional de Tecnología Agropecuaria;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;6117
+2024;Instituto Nacional de Investigación y Desarrollo Pesquero;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;276
+2024;Instituto Nacional de Tecnología Industrial;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;2403
+2024;Instituto Nacional de Vitivinicultura;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;465
+2024;Instituto Nacional de Semillas;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;138
+2024;Tribunal Fiscal de la Nación;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;128
+2024;Instituto Nacional de la Propiedad Industrial;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;174
+2024;Servicio Nacional de Sanidad y Calidad Agroalimentaria;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;1787
+2024;Servicio Geológico Minero Argentino;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;323
+2024;Ente Nacional Regulador del Gas;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;340
+2024;Ente Nacional Regulador de la Electricidad;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;76
+2024;Unidad de Información Financiera;ORGANISMOS DESCENTRALIZADOS;Ministerio de Justicia;;CARGOS;PERMANENTES;320
+2024;Instituto Nacional de Promoción Turística;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;47
+2024;Agencia Nacional de Seguridad Vial;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;351
+2024;Secretaría de Transporte;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2024;Organismo Regulador del Sistema Nacional de Aeropuertos;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;80
+2024;Administración Nacional de Aviación Civil;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;1767
+2024;Junta de Seguridad en el Transporte;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;421
+2024;Secretaría de Transporte;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;15
+2024;Instituto Nacional del Agua;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;405
+2024;Dirección Nacional de Vialidad;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;2812
+2024;Tribunal de Tasaciones de la Nación;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2024;Ente Nacional de Obras Hídricas de Saneamiento;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;24
+2024;Organismo Regulador de Seguridad de Presas;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;PERMANENTES;11
+2024;Fundación Miguel Lillo;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;321
+2024;Comisión Nacional de Evaluación y Acreditación Universitaria;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;82
+2024;Consejo Nacional de Investigaciones Científicas y Técnicas;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;17900
+2024;Comisión Nacional de Actividades Espaciales;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;267
+2024;Banco Nacional de Datos Genéticos;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;43
+2024;Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;141
+2024;Teatro Nacional Cervantes;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;257
+2024;Biblioteca Nacional Doctor Mariano Moreno;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;119
+2024;Instituto Nacional del Teatro;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;129
+2024;Fondo Nacional de las Artes;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;78
+2024;Superintendencia de Riesgos del Trabajo;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;PERMANENTES;398
+2024;Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Lic. Laura Bonaparte';ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;260
+2024;Hospital Nacional 'Baldomero Sommer';ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;705
+2024;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;831
+2024;Instituto Nacional Central Único Coordinador de Ablación e Implante;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;151
+2024;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;1166
+2024;Hospital Nacional 'Profesor Alejandro Posadas';ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;2573
+2024;Hospital Nacional y Comunidad Dr. Ramón Carrillo;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;522
+2024;Instituto Nacional de Rehabilitación Psicofísica del Sur 'Dr. Juan Otimio Tesone';ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;244
+2024;Superintendencia de Servicios de Salud;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;794
+2024;Secretaría de Calidad en Salud;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;34
+2024;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;PERMANENTES;15
+2024;Administración de Parques Nacionales;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1822
+2024;Auditoría General de la Nación;ORGANISMOS DESCENTRALIZADOS;Poder Legislativo;;CARGOS;TEMPORARIOS;66
+2024;Ente Nacional de Comunicaciones;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;6
+2024;Secretaría de Agricultura, Ganadería y Pesca;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;TEMPORARIOS;1
+2024;Dirección Nacional de Migraciones;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;19
+2024;Servicio Meteorológico Nacional;ORGANISMOS DESCENTRALIZADOS;Ministerio de Defensa;;CARGOS;TEMPORARIOS;4
+2024;Instituto Nacional de Tecnología Agropecuaria;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;TEMPORARIOS;1028
+2024;Servicio Nacional de Sanidad y Calidad Agroalimentaria;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;CARGOS;TEMPORARIOS;14
+2024;Comisión Nacional de Evaluación y Acreditación Universitaria;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;3
+2024;Hospital Nacional 'Baldomero Sommer';ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;CARGOS;TEMPORARIOS;12
+2024;Ente Nacional de Comunicaciones;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;1650
+2024;Agencia de Acceso a la Información Pública;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;3000
+2024;Servicio Meteorológico Nacional;ORGANISMOS DESCENTRALIZADOS;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;1738
+2024;Servicio Nacional de Sanidad y Calidad Agroalimentaria;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;11000
+2024;Teatro Nacional Cervantes;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;540
+2024;Biblioteca Nacional Doctor Mariano Moreno;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;264
+2024;Fondo Nacional de las Artes;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;100
+2024;Administración de Parques Nacionales;ORGANISMOS DESCENTRALIZADOS;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;10000
+2024;Sindicatura General de la Nación;ORGANISMOS DESCENTRALIZADOS;Presidencia de la Nación;;HORAS CÁTEDRA;TEMPORARIAS;1150
+2024;Autoridad Regulatoria Nuclear;ORGANISMOS DESCENTRALIZADOS;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;400
+2024;Agencia Nacional de Discapacidad;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;17000
+2024;Instituto Nacional de Asociativismo y Economía Social;ORGANISMOS DESCENTRALIZADOS;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2024;Agencia Nacional de Seguridad Vial;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2024;Administración Nacional de Aviación Civil;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;24036
+2024;Junta de Seguridad en el Transporte;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;9000
+2024;Tribunal de Tasaciones de la Nación;ORGANISMOS DESCENTRALIZADOS;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;400
+2024;Hospital Nacional y Comunidad Dr. Ramón Carrillo;ORGANISMOS DESCENTRALIZADOS;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;458
+2024;Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal;Instituciones Seg Social;Ministerio de Seguridad;;CARGOS;PERMANENTES;141
+2024;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Instituciones Seg Social;Ministerio de Defensa;;CARGOS;PERMANENTES;156
+2024;Administración Nacional de la Seguridad Social;Instituciones Seg Social;Ministerio de Capital Humano;;CARGOS;PERMANENTES;13753
+2024;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Instituciones Seg Social;Ministerio de Defensa;;CARGOS;TEMPORARIOS;23
+2023;Poder Legislativo Nacional;Administracion Nacional;Poder Legislativo;;CARGOS;PERMANENTES;9199
+2023;Auditoría General de la Nación;Administracion Nacional;Poder Legislativo;;CARGOS;PERMANENTES;1729
+2023;Poder Judicial de la Nación;Administracion Nacional;Poder Judicial;;CARGOS;PERMANENTES;24854
+2023;Ministerio Público;Administracion Nacional;Ministerio Público;;CARGOS;PERMANENTES;10649
+2023;Secretaría General;Administracion Nacional;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;849
+2023;Secretaría Legal y Técnica;Administracion Nacional;Presidencia de la Nación;Secretaría Legal y Técnica;CARGOS;PERMANENTES;486
+2023;Secretaría de Inteligencia de Estado;Administracion Nacional;Presidencia de la Nación;Secretaría de Inteligencia de Estado;CARGOS;PERMANENTES;2
+2023;Secretaría General;Administracion Nacional;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;80
+2023;Secretaría General;Administracion Nacional;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;71
+2023;Sindicatura General de la Nación;Administracion Nacional;Presidencia de la Nación;;CARGOS;PERMANENTES;430
+2023;Autoridad Regulatoria Nuclear;Administracion Nacional;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;334
+2023;Agencia Nacional de Discapacidad;Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;446
+2023;Jefatura de Gabinete de Ministros;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;749
+2023;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;24
+2023;Secretaría General;Administracion Nacional;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;74
+2023;Instituto Nacional de Asociativismo y Economía Social;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;219
+2023;Agencia de Administración de Bienes del Estado;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;190
+2023;Ente Nacional de Comunicaciones;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;626
+2023;Agencia de Acceso a la Información Pública;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;27
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;518
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2100
+2023;Dirección Nacional de Migraciones;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2581
+2023;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administracion Nacional;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;PERMANENTES;2308
+2023;Ministerio de Justicia;Administracion Nacional;Ministerio de Justicia;;CARGOS;PERMANENTES;1406
+2023;Subsecretaría de Asuntos Penitenciarios;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;16654
+2023;Procuración del Tesoro de la Nación;Administracion Nacional;Ministerio de Justicia;;CARGOS;PERMANENTES;211
+2023;Instituto Nacional de Asuntos Indígenas;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;27
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;514
+2023;Centro Internacional para la Promoción de los Derechos Humanos;Administracion Nacional;Ministerio de Justicia;;CARGOS;PERMANENTES;24
+2023;Agencia Nacional de Materiales Controlados;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;45
+2023;Ministerio de Seguridad;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;586
+2023;Policía Federal Argentina;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;31855
+2023;Gendarmería Nacional Argentina;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;40286
+2023;Prefectura Naval Argentina;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;23103
+2023;Policía de Seguridad Aeroportuaria;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;5613
+2023;Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal;Administracion Nacional;Ministerio de Seguridad;;CARGOS;PERMANENTES;125
+2023;Ministerio de Defensa;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;652
+2023;Estado Mayor General del Ejército Argentino;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;57188
+2023;Estado Mayor General de la Armada Argentina;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;25050
+2023;Estado Mayor General de la Fuerza Aérea Argentina;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;18520
+2023;Estado Mayor Conjunto de las Fuerzas Armadas;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;169
+2023;Instituto Geográfico Nacional;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;189
+2023;Servicio Meteorológico Nacional;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;389
+2023;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Administracion Nacional;Ministerio de Defensa;;CARGOS;PERMANENTES;145
+2023;Ministerio de Economía;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;3638
+2023;Comisión Nacional de Energía Atómica;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2676
+2023;Comisión Nacional de Valores;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;168
+2023;Superintendencia de Seguros de la Nación;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;254
+2023;Instituto Nacional de Tecnología Agropecuaria;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;6117
+2023;Instituto Nacional de Investigación y Desarrollo Pesquero;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;265
+2023;Instituto Nacional de Tecnología Industrial;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;2403
+2023;Instituto Nacional de Vitivinicultura;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;413
+2023;Instituto Nacional de Semillas;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;66
+2023;Tribunal Fiscal de la Nación;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;84
+2023;Instituto Nacional de la Propiedad Industrial;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;174
+2023;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;1695
+2023;Servicio Geológico Minero Argentino;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;295
+2023;Ente Nacional Regulador del Gas;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;340
+2023;Ente Nacional Regulador de la Electricidad;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;76
+2023;Ministerio de Justicia;Administracion Nacional;Ministerio de Justicia;;CARGOS;PERMANENTES;228
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;435
+2023;Instituto Nacional de Promoción Turística;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;40
+2023;Secretaría de Transporte;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;499
+2023;Agencia Nacional de Seguridad Vial;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;261
+2023;Secretaría de Transporte;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2023;Organismo Regulador del Sistema Nacional de Aeropuertos;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;80
+2023;Administración Nacional de Aviación Civil;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;1767
+2023;Junta de Seguridad en el Transporte;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;421
+2023;Ministerio de Economía;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;192
+2023;Instituto Nacional del Agua;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;391
+2023;Dirección Nacional de Vialidad;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;886
+2023;Tribunal de Tasaciones de la Nación;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;55
+2023;Ente Nacional de Obras Hídricas de Saneamiento;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;24
+2023;Organismo Regulador de Seguridad de Presas;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;11
+2023;Ministerio de Economía;Administracion Nacional;Ministerio de Economía;;CARGOS;PERMANENTES;146
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;1001
+2023;Fundación Miguel Lillo;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;308
+2023;Comisión Nacional de Evaluación y Acreditación Universitaria;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;56
+2023;Secretaría de Innovación, Ciencia y Tecnología;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;310
+2023;Consejo Nacional de Investigaciones Científicas y Técnicas;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;17596
+2023;Comisión Nacional de Actividades Espaciales;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;267
+2023;Secretaría de Innovación, Ciencia y Tecnología;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;34
+2023;Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;77
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;1094
+2023;Teatro Nacional Cervantes;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;248
+2023;Biblioteca Nacional Doctor Mariano Moreno;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;64
+2023;Instituto Nacional del Teatro;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;120
+2023;Fondo Nacional de las Artes;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;64
+2023;Secretaría de Trabajo, Empleo y Seguridad Social;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;2816
+2023;Administración Nacional de la Seguridad Social;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;13752
+2023;Superintendencia de Riesgos del Trabajo;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;398
+2023;Ministerio de Salud;Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;5116
+2023;Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Lic. Laura Bonaparte';Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;80
+2023;Hospital Nacional 'Baldomero Sommer';Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;311
+2023;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;424
+2023;Instituto Nacional Central Único Coordinador de Ablación e Implante;Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;111
+2023;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;1139
+2023;Hospital Nacional 'Profesor Alejandro Posadas';Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;1419
+2023;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;348
+2023;Instituto Nacional de Rehabilitación Psicofísica del Sur 'Dr. Juan Otimio Tesone';Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;142
+2023;Superintendencia de Servicios de Salud;Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;463
+2023;Secretaría de Calidad en Salud;Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;15
+2023;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Administracion Nacional;Ministerio de Salud;;CARGOS;PERMANENTES;15
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;246
+2023;Administración de Parques Nacionales;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1719
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;3260
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;PERMANENTES;195
+2023;Poder Legislativo Nacional;Administracion Nacional;Poder Legislativo;;CARGOS;TEMPORARIOS;5230
+2023;Auditoría General de la Nación;Administracion Nacional;Poder Legislativo;;CARGOS;TEMPORARIOS;66
+2023;Poder Judicial de la Nación;Administracion Nacional;Poder Judicial;;CARGOS;TEMPORARIOS;2010
+2023;Ministerio Público;Administracion Nacional;Ministerio Público;;CARGOS;TEMPORARIOS;266
+2023;Jefatura de Gabinete de Ministros;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;1
+2023;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Administracion Nacional;Ministerio de Salud;;CARGOS;TEMPORARIOS;27
+2023;Ente Nacional de Comunicaciones;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;6
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;52
+2023;Dirección Nacional de Migraciones;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;19
+2023;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administracion Nacional;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;TEMPORARIOS;142
+2023;Policía Federal Argentina;Administracion Nacional;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;694
+2023;Gendarmería Nacional Argentina;Administracion Nacional;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;462
+2023;Ministerio de Defensa;Administracion Nacional;Ministerio de Defensa;;CARGOS;TEMPORARIOS;438
+2023;Estado Mayor General del Ejército Argentino;Administracion Nacional;Ministerio de Defensa;;CARGOS;TEMPORARIOS;685
+2023;Estado Mayor General de la Armada Argentina;Administracion Nacional;Ministerio de Defensa;;CARGOS;TEMPORARIOS;216
+2023;Estado Mayor Conjunto de las Fuerzas Armadas;Administracion Nacional;Ministerio de Defensa;;CARGOS;TEMPORARIOS;46
+2023;Servicio Meteorológico Nacional;Administracion Nacional;Ministerio de Defensa;;CARGOS;TEMPORARIOS;4
+2023;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Administracion Nacional;Ministerio de Defensa;;CARGOS;TEMPORARIOS;23
+2023;Ministerio de Economía;Administracion Nacional;Ministerio de Economía;;CARGOS;TEMPORARIOS;101
+2023;Instituto Nacional de Tecnología Agropecuaria;Administracion Nacional;Ministerio de Economía;;CARGOS;TEMPORARIOS;1028
+2023;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Administracion Nacional;Ministerio de Economía;;CARGOS;TEMPORARIOS;16
+2023;Dirección Nacional de Vialidad;Administracion Nacional;Ministerio de Economía;;CARGOS;TEMPORARIOS;8
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;40
+2023;Secretaría de Trabajo, Empleo y Seguridad Social;Administracion Nacional;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;5
+2023;Hospital Nacional 'Baldomero Sommer';Administracion Nacional;Ministerio de Salud;;CARGOS;TEMPORARIOS;12
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;16
+2023;Secretaría de Inteligencia de Estado;Administracion Nacional;Presidencia de la Nación;Secretaría de Inteligencia de Estado;HORAS CÁTEDRA;PERMANENTES;6500
+2023;Ente Nacional de Comunicaciones;Administracion Nacional;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;1650
+2023;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administracion Nacional;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;HORAS CÁTEDRA;PERMANENTES;23347
+2023;Subsecretaría de Asuntos Penitenciarios;Administracion Nacional;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;7277
+2023;Prefectura Naval Argentina;Administracion Nacional;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;360
+2023;Estado Mayor General del Ejército Argentino;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;8735
+2023;Estado Mayor General de la Armada Argentina;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;35406
+2023;Estado Mayor General de la Fuerza Aérea Argentina;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;18813
+2023;Estado Mayor Conjunto de las Fuerzas Armadas;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;587
+2023;Servicio Meteorológico Nacional;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;1738
+2023;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;9000
+2023;Secretaría de Transporte;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;2520
+2023;Junta de Seguridad en el Transporte;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;8000
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;900
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;326
+2023;Teatro Nacional Cervantes;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;540
+2023;Biblioteca Nacional Doctor Mariano Moreno;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;264
+2023;Fondo Nacional de las Artes;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;100
+2023;Administración de Parques Nacionales;Administracion Nacional;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;10000
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;10000
+2023;Secretaría General;Administracion Nacional;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;4000
+2023;Sindicatura General de la Nación;Administracion Nacional;Presidencia de la Nación;;HORAS CÁTEDRA;TEMPORARIAS;1155
+2023;Autoridad Regulatoria Nuclear;Administracion Nacional;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;400
+2023;Agencia Nacional de Discapacidad;Administracion Nacional;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;17000
+2023;Jefatura de Gabinete de Ministros;Administracion Nacional;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2023;Instituto Nacional de Asociativismo y Economía Social;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2023;Agencia de Acceso a la Información Pública;Administracion Nacional;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;3000
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;5600
+2023;Ministerio de Justicia;Administracion Nacional;Ministerio de Justicia;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2023;Ministerio de Seguridad;Administracion Nacional;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;10000
+2023;Policía Federal Argentina;Administracion Nacional;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;13500
+2023;Policía de Seguridad Aeroportuaria;Administracion Nacional;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;11800
+2023;Estado Mayor General del Ejército Argentino;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;24732
+2023;Estado Mayor General de la Fuerza Aérea Argentina;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1718
+2023;Estado Mayor Conjunto de las Fuerzas Armadas;Administracion Nacional;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1487
+2023;Ministerio de Economía;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;23548
+2023;Agencia Nacional de Seguridad Vial;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2023;Ministerio de Economía;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;1200
+2023;Tribunal de Tasaciones de la Nación;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;400
+2023;Ministerio de Economía;Administracion Nacional;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;80
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;500
+2023;Secretaría de Trabajo, Empleo y Seguridad Social;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;1000
+2023;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Administracion Nacional;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;458
+2023;Vicejefatura de Gabinete del Interior;Administracion Nacional;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;3000
+2023;Ministerio de Capital Humano;Administracion Nacional;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;6250
+2023;Auditoría General de la Nación;Organismos Descentralizados;Poder Legislativo;;CARGOS;PERMANENTES;1729
+2023;Sindicatura General de la Nación;Organismos Descentralizados;Presidencia de la Nación;;CARGOS;PERMANENTES;430
+2023;Autoridad Regulatoria Nuclear;Organismos Descentralizados;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;334
+2023;Agencia Nacional de Discapacidad;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;446
+2023;Instituto Nacional de Asociativismo y Economía Social;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;219
+2023;Agencia de Administración de Bienes del Estado;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;190
+2023;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;626
+2023;Agencia de Acceso a la Información Pública;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;27
+2023;Vicejefatura de Gabinete del Interior;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2100
+2023;Dirección Nacional de Migraciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2581
+2023;Instituto Nacional de Asuntos Indígenas;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;27
+2023;Ministerio de Capital Humano;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;514
+2023;Centro Internacional para la Promoción de los Derechos Humanos;Organismos Descentralizados;Ministerio de Justicia;;CARGOS;PERMANENTES;24
+2023;Agencia Nacional de Materiales Controlados;Organismos Descentralizados;Ministerio de Seguridad;;CARGOS;PERMANENTES;45
+2023;Instituto Geográfico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;PERMANENTES;189
+2023;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;PERMANENTES;389
+2023;Comisión Nacional de Energía Atómica;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2676
+2023;Comisión Nacional de Valores;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;168
+2023;Superintendencia de Seguros de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;254
+2023;Instituto Nacional de Tecnología Agropecuaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;6117
+2023;Instituto Nacional de Investigación y Desarrollo Pesquero;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;265
+2023;Instituto Nacional de Tecnología Industrial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;2403
+2023;Instituto Nacional de Vitivinicultura;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;413
+2023;Instituto Nacional de Semillas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;66
+2023;Tribunal Fiscal de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;84
+2023;Instituto Nacional de la Propiedad Industrial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;174
+2023;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1695
+2023;Servicio Geológico Minero Argentino;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;295
+2023;Ente Nacional Regulador del Gas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;340
+2023;Ente Nacional Regulador de la Electricidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;76
+2023;Ministerio de Justicia;Organismos Descentralizados;Ministerio de Justicia;;CARGOS;PERMANENTES;228
+2023;Instituto Nacional de Promoción Turística;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;40
+2023;Agencia Nacional de Seguridad Vial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;261
+2023;Secretaría de Transporte;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2023;Organismo Regulador del Sistema Nacional de Aeropuertos;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;80
+2023;Administración Nacional de Aviación Civil;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1767
+2023;Junta de Seguridad en el Transporte;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;421
+2023;Instituto Nacional del Agua;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;391
+2023;Dirección Nacional de Vialidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;886
+2023;Tribunal de Tasaciones de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;55
+2023;Ente Nacional de Obras Hídricas de Saneamiento;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;24
+2023;Organismo Regulador de Seguridad de Presas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;11
+2023;Fundación Miguel Lillo;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;308
+2023;Comisión Nacional de Evaluación y Acreditación Universitaria;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;56
+2023;Consejo Nacional de Investigaciones Científicas y Técnicas;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;17596
+2023;Comisión Nacional de Actividades Espaciales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;267
+2023;Secretaría de Innovación, Ciencia y Tecnología;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;34
+2023;Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;77
+2023;Teatro Nacional Cervantes;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;248
+2023;Biblioteca Nacional Doctor Mariano Moreno;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;64
+2023;Instituto Nacional del Teatro;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;120
+2023;Fondo Nacional de las Artes;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;64
+2023;Superintendencia de Riesgos del Trabajo;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;398
+2023;Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Lic. Laura Bonaparte';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;80
+2023;Hospital Nacional 'Baldomero Sommer';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;311
+2023;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;424
+2023;Instituto Nacional Central Único Coordinador de Ablación e Implante;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;111
+2023;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;1139
+2023;Hospital Nacional 'Profesor Alejandro Posadas';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;1419
+2023;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;348
+2023;Instituto Nacional de Rehabilitación Psicofísica del Sur 'Dr. Juan Otimio Tesone';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;142
+2023;Superintendencia de Servicios de Salud;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;463
+2023;Secretaría de Calidad en Salud;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;15
+2023;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;15
+2023;Administración de Parques Nacionales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1719
+2023;Auditoría General de la Nación;Organismos Descentralizados;Poder Legislativo;;CARGOS;TEMPORARIOS;66
+2023;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;6
+2023;Dirección Nacional de Migraciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;19
+2023;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;TEMPORARIOS;4
+2023;Instituto Nacional de Tecnología Agropecuaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;1028
+2023;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;16
+2023;Dirección Nacional de Vialidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;8
+2023;Hospital Nacional 'Baldomero Sommer';Organismos Descentralizados;Ministerio de Salud;;CARGOS;TEMPORARIOS;12
+2023;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;1650
+2023;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;1738
+2023;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;9000
+2023;Junta de Seguridad en el Transporte;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;8000
+2023;Teatro Nacional Cervantes;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;540
+2023;Biblioteca Nacional Doctor Mariano Moreno;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;264
+2023;Fondo Nacional de las Artes;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;100
+2023;Administración de Parques Nacionales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;10000
+2023;Sindicatura General de la Nación;Organismos Descentralizados;Presidencia de la Nación;;HORAS CÁTEDRA;TEMPORARIAS;1155
+2023;Autoridad Regulatoria Nuclear;Organismos Descentralizados;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;400
+2023;Agencia Nacional de Discapacidad;Organismos Descentralizados;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;17000
+2023;Instituto Nacional de Asociativismo y Economía Social;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2023;Agencia de Acceso a la Información Pública;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;3000
+2023;Agencia Nacional de Seguridad Vial;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2023;Tribunal de Tasaciones de la Nación;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;400
+2023;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Organismos Descentralizados;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;458
+2023;Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal;Instituciones de Seguridad Social;Ministerio de Seguridad;;CARGOS;PERMANENTES;125
+2023;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Instituciones de Seguridad Social;Ministerio de Defensa;;CARGOS;PERMANENTES;145
+2023;Administración Nacional de la Seguridad Social;Instituciones de Seguridad Social;Ministerio de Capital Humano;;CARGOS;PERMANENTES;13752
+2023;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Instituciones de Seguridad Social;Ministerio de Defensa;;CARGOS;TEMPORARIOS;23
+2022;Poder Legislativo Nacional;Administración Central;Poder Legislativo;;CARGOS;PERMANENTES;9131
+2022;Poder Judicial de la Nación;Administración Central;Poder Judicial;;CARGOS;PERMANENTES;24599
+2022;Ministerio Público;Administración Central;Ministerio Público;;CARGOS;PERMANENTES;10170
+2022;Secretaría General;Administración Central;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;878
+2022;Secretaría Legal y Técnica;Administración Central;Presidencia de la Nación;Secretaría Legal y Técnica;CARGOS;PERMANENTES;389
+2022;Secretaría de Inteligencia de Estado;Administración Central;Presidencia de la Nación;Secretaría de Inteligencia de Estado;CARGOS;PERMANENTES;2
+2022;Secretaría General;Administración Central;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;66
+2022;Secretaría General;Administración Central;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;64
+2022;Jefatura de Gabinete de Ministros;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;596
+2022;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;74
+2022;Secretaría General;Administración Central;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;72
+2022;Secretaría de Innovación, Ciencia y Tecnología;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;130
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;518
+2022;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administración Central;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;PERMANENTES;2265
+2022;Ministerio de Justicia;Administración Central;Ministerio de Justicia;;CARGOS;PERMANENTES;1405
+2022;Subsecretaría de Asuntos Penitenciarios;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;16654
+2022;Procuración del Tesoro de la Nación;Administración Central;Ministerio de Justicia;;CARGOS;PERMANENTES;211
+2022;Ministerio de Seguridad;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;578
+2022;Policía Federal Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;31873
+2022;Gendarmería Nacional Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;39812
+2022;Prefectura Naval Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;23103
+2022;Policía de Seguridad Aeroportuaria;Administración Central;Ministerio de Seguridad;;CARGOS;PERMANENTES;5136
+2022;Ministerio de Defensa;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;634
+2022;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;57188
+2022;Estado Mayor General de la Armada Argentina;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;25358
+2022;Estado Mayor General de la Fuerza Aérea Argentina;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;18520
+2022;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;CARGOS;PERMANENTES;177
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;2148
+2022;Secretaría de Trabajo, Empleo y Seguridad Social;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;848
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;588
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;435
+2022;Secretaría de Transporte;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;484
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;171
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;PERMANENTES;103
+2022;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;885
+2022;Secretaría de Innovación, Ciencia y Tecnología;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;255
+2022;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;921
+2022;Secretaría de Trabajo, Empleo y Seguridad Social;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;2814
+2022;Ministerio de Salud;Administración Central;Ministerio de Salud;;CARGOS;PERMANENTES;4012
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;254
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;3211
+2022;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;CARGOS;PERMANENTES;195
+2022;Poder Legislativo Nacional;Administración Central;Poder Legislativo;;CARGOS;TEMPORARIOS;4908
+2022;Poder Judicial de la Nación;Administración Central;Poder Judicial;;CARGOS;TEMPORARIOS;1914
+2022;Ministerio Público;Administración Central;Ministerio Público;;CARGOS;TEMPORARIOS;266
+2022;Jefatura de Gabinete de Ministros;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;1
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;51
+2022;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administración Central;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;CARGOS;TEMPORARIOS;140
+2022;Policía Federal Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;676
+2022;Gendarmería Nacional Argentina;Administración Central;Ministerio de Seguridad;;CARGOS;TEMPORARIOS;424
+2022;Ministerio de Defensa;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;360
+2022;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;685
+2022;Estado Mayor General de la Armada Argentina;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;205
+2022;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;CARGOS;TEMPORARIOS;38
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;TEMPORARIOS;104
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;CARGOS;TEMPORARIOS;2
+2022;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;60
+2022;Secretaría de Trabajo, Empleo y Seguridad Social;Administración Central;Ministerio de Capital Humano;;CARGOS;TEMPORARIOS;6
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;17
+2022;Secretaría de Inteligencia de Estado;Administración Central;Presidencia de la Nación;Secretaría de Inteligencia de Estado;HORAS CÁTEDRA;PERMANENTES;6500
+2022;Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Administración Central;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;HORAS CÁTEDRA;PERMANENTES;12987
+2022;Subsecretaría de Asuntos Penitenciarios;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;7277
+2022;Prefectura Naval Argentina;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;PERMANENTES;360
+2022;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;11419
+2022;Estado Mayor General de la Armada Argentina;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;35406
+2022;Estado Mayor General de la Fuerza Aérea Argentina;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;18813
+2022;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;587
+2022;Secretaría de Trabajo, Empleo y Seguridad Social;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;5000
+2022;Secretaría de Transporte;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;2520
+2022;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;900
+2022;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;826
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;8000
+2022;Secretaría General;Administración Central;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;4000
+2022;Jefatura de Gabinete de Ministros;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;5600
+2022;Ministerio de Justicia;Administración Central;Ministerio de Justicia;;HORAS CÁTEDRA;TEMPORARIAS;5000
+2022;Ministerio de Seguridad;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;10000
+2022;Policía Federal Argentina;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;13500
+2022;Policía de Seguridad Aeroportuaria;Administración Central;Ministerio de Seguridad;;HORAS CÁTEDRA;TEMPORARIAS;11800
+2022;Estado Mayor General del Ejército Argentino;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;22048
+2022;Estado Mayor General de la Fuerza Aérea Argentina;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1718
+2022;Estado Mayor Conjunto de las Fuerzas Armadas;Administración Central;Ministerio de Defensa;;HORAS CÁTEDRA;TEMPORARIAS;1487
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;18548
+2022;Ministerio de Economía;Administración Central;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;1200
+2022;Secretaría de Trabajo, Empleo y Seguridad Social;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;520
+2022;Vicejefatura de Gabinete del Interior;Administración Central;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;TEMPORARIAS;800
+2022;Ministerio de Capital Humano;Administración Central;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;5200
+2022;Auditoría General de la Nación;Organismos Descentralizados;Poder Legislativo;;CARGOS;PERMANENTES;1679
+2022;Sindicatura General de la Nación;Organismos Descentralizados;Presidencia de la Nación;;CARGOS;PERMANENTES;430
+2022;Autoridad Regulatoria Nuclear;Organismos Descentralizados;Presidencia de la Nación;Secretaría General;CARGOS;PERMANENTES;334
+2022;Agencia Nacional de Discapacidad;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;186
+2022;Agencia de Administración de Bienes del Estado;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;190
+2022;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;460
+2022;Agencia de Acceso a la Información Pública;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;27
+2022;Vicejefatura de Gabinete del Interior;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1091
+2022;Dirección Nacional de Migraciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2541
+2022;Instituto Nacional de Asuntos Indígenas;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;27
+2022;Ministerio de Capital Humano;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;404
+2022;Centro Internacional para la Promoción de los Derechos Humanos;Organismos Descentralizados;Ministerio de Justicia;;CARGOS;PERMANENTES;24
+2022;Agencia Nacional de Materiales Controlados;Organismos Descentralizados;Ministerio de Seguridad;;CARGOS;PERMANENTES;40
+2022;Instituto Geográfico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;PERMANENTES;131
+2022;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;PERMANENTES;266
+2022;Comisión Nacional de Energía Atómica;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;2676
+2022;Comisión Nacional de Valores;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;126
+2022;Superintendencia de Seguros de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;254
+2022;Tribunal Fiscal de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;84
+2022;Ente Nacional Regulador del Gas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;340
+2022;Ente Nacional Regulador de la Electricidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2022;Ministerio de Justicia;Organismos Descentralizados;Ministerio de Justicia;;CARGOS;PERMANENTES;228
+2022;Ministerio de Capital Humano;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;175
+2022;Instituto Nacional de Tecnología Industrial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1186
+2022;Instituto Nacional de la Propiedad Industrial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;174
+2022;Servicio Geológico Minero Argentino;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;175
+2022;Instituto Nacional de Tecnología Agropecuaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;5816
+2022;Instituto Nacional de Investigación y Desarrollo Pesquero;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;209
+2022;Instituto Nacional de Vitivinicultura;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;413
+2022;Instituto Nacional de Semillas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;66
+2022;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1695
+2022;Instituto Nacional de Promoción Turística;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;40
+2022;Agencia Nacional de Seguridad Vial;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;117
+2022;Secretaría de Transporte;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;78
+2022;Organismo Regulador del Sistema Nacional de Aeropuertos;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;79
+2022;Administración Nacional de Aviación Civil;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;1767
+2022;Junta de Seguridad en el Transporte;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;421
+2022;Instituto Nacional del Agua;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;258
+2022;Dirección Nacional de Vialidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;886
+2022;Tribunal de Tasaciones de la Nación;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;50
+2022;Ente Nacional de Obras Hídricas de Saneamiento;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;23
+2022;Organismo Regulador de Seguridad de Presas;Organismos Descentralizados;Ministerio de Economía;;CARGOS;PERMANENTES;11
+2022;Fundación Miguel Lillo;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;296
+2022;Comisión Nacional de Evaluación y Acreditación Universitaria;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;56
+2022;Consejo Nacional de Investigaciones Científicas y Técnicas;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;17596
+2022;Comisión Nacional de Actividades Espaciales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;243
+2022;Secretaría de Innovación, Ciencia y Tecnología;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;16
+2022;Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;77
+2022;Teatro Nacional Cervantes;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;241
+2022;Biblioteca Nacional Doctor Mariano Moreno;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;64
+2022;Instituto Nacional del Teatro;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;120
+2022;Fondo Nacional de las Artes;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;64
+2022;Superintendencia de Riesgos del Trabajo;Organismos Descentralizados;Ministerio de Capital Humano;;CARGOS;PERMANENTES;398
+2022;Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Lic. Laura Bonaparte';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;80
+2022;Hospital Nacional 'Baldomero Sommer';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;70
+2022;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;424
+2022;Instituto Nacional Central Único Coordinador de Ablación e Implante;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;115
+2022;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;756
+2022;Hospital Nacional 'Profesor Alejandro Posadas';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;876
+2022;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;348
+2022;Instituto Nacional de Rehabilitación Psicofísica del Sur 'Dr. Juan Otimio Tesone';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;129
+2022;Superintendencia de Servicios de Salud;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;463
+2022;Secretaría de Calidad en Salud;Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;12
+2022;Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Organismos Descentralizados;Ministerio de Salud;;CARGOS;PERMANENTES;15
+2022;Administración de Parques Nacionales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;PERMANENTES;1609
+2022;Auditoría General de la Nación;Organismos Descentralizados;Poder Legislativo;;CARGOS;TEMPORARIOS;66
+2022;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;55
+2022;Dirección Nacional de Migraciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;CARGOS;TEMPORARIOS;19
+2022;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;CARGOS;TEMPORARIOS;4
+2022;Instituto Nacional de Tecnología Agropecuaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;994
+2022;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;16
+2022;Dirección Nacional de Vialidad;Organismos Descentralizados;Ministerio de Economía;;CARGOS;TEMPORARIOS;8
+2022;Hospital Nacional 'Baldomero Sommer';Organismos Descentralizados;Ministerio de Salud;;CARGOS;TEMPORARIOS;5
+2022;Ente Nacional de Comunicaciones;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;1650
+2022;Servicio Meteorológico Nacional;Organismos Descentralizados;Ministerio de Defensa;;HORAS CÁTEDRA;PERMANENTES;1738
+2022;Servicio Nacional de Sanidad y Calidad Agroalimentaria;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;9000
+2022;Junta de Seguridad en el Transporte;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;PERMANENTES;7000
+2022;Teatro Nacional Cervantes;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;45
+2022;Biblioteca Nacional Doctor Mariano Moreno;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;264
+2022;Fondo Nacional de las Artes;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;PERMANENTES;100
+2022;Administración de Parques Nacionales;Organismos Descentralizados;Jefatura de Gabinete de Ministros;;HORAS CÁTEDRA;PERMANENTES;4500
+2022;Sindicatura General de la Nación;Organismos Descentralizados;Presidencia de la Nación;;HORAS CÁTEDRA;TEMPORARIAS;1600
+2022;Autoridad Regulatoria Nuclear;Organismos Descentralizados;Presidencia de la Nación;Secretaría General;HORAS CÁTEDRA;TEMPORARIAS;400
+2022;Agencia Nacional de Discapacidad;Organismos Descentralizados;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;17000
+2022;Ministerio de Capital Humano;Organismos Descentralizados;Ministerio de Capital Humano;;HORAS CÁTEDRA;TEMPORARIAS;30000
+2022;Tribunal de Tasaciones de la Nación;Organismos Descentralizados;Ministerio de Economía;;HORAS CÁTEDRA;TEMPORARIAS;400
+2022;Hospital Nacional y Comunidad Dr. Ramón Carrillo;Organismos Descentralizados;Ministerio de Salud;;HORAS CÁTEDRA;TEMPORARIAS;458
+2022;Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal;Instituciones de Seguridad Social;Ministerio de Seguridad;;CARGOS;PERMANENTES;125
+2022;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Instituciones de Seguridad Social;Ministerio de Defensa;;CARGOS;PERMANENTES;128
+2022;Administración Nacional de la Seguridad Social;Instituciones de Seguridad Social;Ministerio de Capital Humano;;CARGOS;PERMANENTES;13752
+2022;Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Instituciones de Seguridad Social;Ministerio de Defensa;;CARGOS;TEMPORARIOS;23

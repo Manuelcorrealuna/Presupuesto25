@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <title>Presupuesto Argentina</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Análisis del Presupuesto de Argentina</h1>
+        <!-- Incrustar Streamlit para mostrar los gráficos -->
+        <iframe src="http://localhost:8501/" frameborder="0" width="100%" height="800px"></iframe>
+    </div>
+</body>
+</html>

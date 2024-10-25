@@ -1,0 +1,118 @@
+Unidad;Reporta_a;Jurisdiccion;Subjurisdiccion;Gastos_en_Millones;RRHH
+Presidencia de la Nación;;Presidencia de la Nación;;116667;16
+Jefatura de Gabinete de Ministros;Presidencia de la Nación;Jefatura de Gabinete de Ministros;;56557;736
+Ministerio de Capital Humano;Presidencia de la Nación;Ministerio de Capital Humano;;53450784;1676
+Ministerio de Economía;Presidencia de la Nación;Ministerio de Economía;;5735002;7225
+Ministerio de Salud;Presidencia de la Nación;Ministerio de Salud;;1416601;6016
+Vicejefatura de Gabinete del Interior;Jefatura de Gabinete de Ministros;Jefatura de Gabinete de Ministros;;662941;1738
+Secretaría de Trabajo, Empleo y Seguridad Social;Ministerio de Capital Humano;Ministerio de Capital Humano;;1166719;3293
+Secretaría de Educación;Ministerio de Capital Humano;Ministerio de Capital Humano;;5928600;1161
+Ministerio de Defensa;Presidencia de la Nación;Ministerio de Defensa;;1660883;1191
+Secretaría de Hacienda;Ministerio de Economía;Ministerio de Economía;;0;0
+Ministerio de Justicia;Presidencia de la Nación;Ministerio de Justicia;;158750;1948
+Secretaría de Calidad en Salud;Ministerio de Salud;Ministerio de Salud;;0;0
+Ministerio de Seguridad;Presidencia de la Nación;Ministerio de Seguridad;;2367209;840
+Vicejefatura de Gabinete Ejecutiva;Jefatura de Gabinete de Ministros;Jefatura de Gabinete de Ministros;;0;0
+Secretaría de Innovación, Ciencia y Tecnología;Jefatura de Gabinete de Ministros;Jefatura de Gabinete de Ministros;;136244;457
+Secretaría de Turismo, Ambiente y Deportes;Vicejefatura de Gabinete del Interior;Jefatura de Gabinete de Ministros;;0;0
+Subsecretaría de Seguridad Social;Secretaría de Trabajo, Empleo y Seguridad Social;Ministerio de Capital Humano;;0;0
+Subsecretaría de Políticas Universitarias;Secretaría de Educación;Ministerio de Capital Humano;;0;0
+Secretaría de Cultura;Ministerio de Capital Humano;Ministerio de Capital Humano;;0;0
+Estado Mayor Conjunto de las Fuerzas Armadas;Ministerio de Defensa;Ministerio de Defensa;;55377;215
+Secretaría de Investigación, Política Industrial y Producción para la Defensa;Ministerio de Defensa;Ministerio de Defensa;;0;0
+Secretaría de Transporte;Ministerio de Economía;Ministerio de Economía;;0;0
+Secretaría de Obras Públicas;Ministerio de Economía;Ministerio de Economía;;0;0
+Secretaría de Energía;Ministerio de Economía;Ministerio de Economía;;0;0
+Secretaría de Agricultura, Ganadería y Pesca;Ministerio de Economía;Ministerio de Economía;;0;0
+Secretaría de Industria y Comercio;Ministerio de Economía;Ministerio de Economía;;0;0
+Secretaría de Minería;Ministerio de Economía;Ministerio de Economía;;0;0
+Subsecretaría de Ingresos Públicos;Secretaría de Hacienda;Ministerio de Economía;;0;0
+Secretaría de Derechos Humanos;Ministerio de Justicia;Ministerio de Justicia;;0;0
+Subsecretaría de Institutos y Fiscalización;Secretaría de Calidad en Salud;Ministerio de Salud;;0;0
+Secretaría de Coordinación Administrativa;Ministerio de Seguridad;Ministerio de Seguridad;;0;0
+Secretaría General;Presidencia de la Nación;Presidencia de la Nación;Secretaría General;0;796
+Administración de Parques Nacionales;Vicejefatura de Gabinete del Interior;Jefatura de Gabinete de Ministros;;83122;3122
+Agencia de Acceso a la Información Pública;Vicejefatura de Gabinete Ejecutiva;Jefatura de Gabinete de Ministros;;2520;68
+Agencia de Administración de Bienes del Estado;Vicejefatura de Gabinete Ejecutiva;Jefatura de Gabinete de Ministros;;13081;430
+Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación;Secretaría de Innovación, Ciencia y Tecnología;Jefatura de Gabinete de Ministros;;36087;282
+Banco Nacional de Datos Genéticos;Secretaría de Innovación, Ciencia y Tecnología;Jefatura de Gabinete de Ministros;;2333;86
+Comisión Nacional de Actividades Espaciales;Secretaría de Innovación, Ciencia y Tecnología;Jefatura de Gabinete de Ministros;;51033;534
+Comisión Nacional de Energía Atómica;Jefatura de Gabinete de Ministros;Jefatura de Gabinete de Ministros;;229819;6242
+Consejo Nacional de Investigaciones Científicas y Técnicas;Secretaría de Innovación, Ciencia y Tecnología;Jefatura de Gabinete de Ministros;;518839;35800
+Dirección Nacional de Migraciones;Vicejefatura de Gabinete del Interior;Jefatura de Gabinete de Ministros;;116818;5626
+Ente Nacional de Comunicaciones;Secretaría de Innovación, Ciencia y Tecnología;Jefatura de Gabinete de Ministros;;58423;1264
+Instituto Nacional de Asuntos Indígenas;Vicejefatura de Gabinete del Interior;Jefatura de Gabinete de Ministros;;5374;182
+Instituto Nacional de Promoción Turística;Secretaría de Turismo, Ambiente y Deportes;Jefatura de Gabinete de Ministros;;18500;80
+Registro Nacional de las Personas;Vicejefatura de Gabinete del Interior;Jefatura de Gabinete de Ministros;;127667;4416
+Administración Nacional de la Seguridad Social;Subsecretaría de Seguridad Social;Ministerio de Capital Humano;;0;25392
+Biblioteca Nacional Doctor Mariano Moreno;Ministerio de Capital Humano;Ministerio de Capital Humano;;30290;238
+Comisión Nacional de Evaluación y Acreditación Universitaria;Subsecretaría de Políticas Universitarias;Ministerio de Capital Humano;;4575;170
+Fondo Nacional de las Artes;Secretaría de Cultura;Ministerio de Capital Humano;;3241;92
+Fundación Miguel Lillo;Secretaría de Educación;Ministerio de Capital Humano;;6460;616
+Instituto Nacional de Asociativismo y Economía Social;Ministerio de Capital Humano;Ministerio de Capital Humano;;21870;688
+Instituto Nacional del Teatro;Secretaría de Cultura;Ministerio de Capital Humano;;7564;258
+Secretaría Nacional de Niñez, Adolescencia y Familia;Ministerio de Capital Humano;Ministerio de Capital Humano;;4040913;4984
+Superintendencia de Riesgos del Trabajo;Secretaría de Trabajo, Empleo y Seguridad Social;Ministerio de Capital Humano;;12601;796
+Teatro Nacional Cervantes;Secretaría de Cultura;Ministerio de Capital Humano;;9737;514
+Estado Mayor General de la Armada Argentina;Estado Mayor Conjunto de las Fuerzas Armadas;Ministerio de Defensa;;713705;25266
+Estado Mayor General de la Fuerza Aérea Argentina;Estado Mayor Conjunto de las Fuerzas Armadas;Ministerio de Defensa;;582033;21717
+Estado Mayor General del Ejército Argentino;Estado Mayor Conjunto de las Fuerzas Armadas;Ministerio de Defensa;;1354448;60290
+Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares;Ministerio de Defensa;Ministerio de Defensa;;0;358
+Instituto Geográfico Nacional;Secretaría de Investigación, Política Industrial y Producción para la Defensa;Ministerio de Defensa;;7495;398
+Servicio Meteorológico Nacional;Secretaría de Investigación, Política Industrial y Producción para la Defensa;Ministerio de Defensa;;36185;880
+Ministerio de Desregulación y Transformación del Estado;Presidencia de la Nación;Ministerio de Desregulación y Transformación del Estado;;21261;538
+Administración Nacional de Aviación Civil;Secretaría de Transporte;Ministerio de Economía;;63662;3534
+Agencia Nacional de Seguridad Vial;Secretaría de Transporte;Ministerio de Economía;;17865;702
+Comisión Nacional de Regulación del Transporte;Secretaría de Transporte;Ministerio de Economía;;34176;156
+Comisión Nacional de Valores;Ministerio de Economía;Ministerio de Economía;;17421;506
+Dirección Nacional de Vialidad;Secretaría de Transporte;Ministerio de Economía;;1016574;3700
+Ente Nacional de Obras Hídricas de Saneamiento;Secretaría de Obras Públicas;Ministerio de Economía;;108520;48
+Ente Nacional Regulador de la Electricidad;Secretaría de Energía;Ministerio de Economía;;15874;152
+Ente Nacional Regulador del Gas;Secretaría de Energía;Ministerio de Economía;;54735;680
+Instituto Nacional de Investigación y Desarrollo Pesquero;Secretaría de Agricultura, Ganadería y Pesca;Ministerio de Economía;;18985;552
+Instituto Nacional de la Propiedad Industrial;Secretaría de Industria y Comercio;Ministerio de Economía;;15591;348
+Instituto Nacional de Semillas;Secretaría de Agricultura, Ganadería y Pesca;Ministerio de Economía;;21760;276
+Instituto Nacional de Tecnología Agropecuaria;Secretaría de Agricultura, Ganadería y Pesca;Ministerio de Economía;;231494;14290
+Instituto Nacional de Tecnología Industrial;Secretaría de Industria y Comercio;Ministerio de Economía;;73316;4806
+Instituto Nacional de Vitivinicultura;Secretaría de Agricultura, Ganadería y Pesca;Ministerio de Economía;;16420;930
+Instituto Nacional del Agua;Secretaría de Obras Públicas;Ministerio de Economía;;8357;810
+Junta de Seguridad en el Transporte;Secretaría de Transporte;Ministerio de Economía;;16711;842
+Organismo Regulador de Seguridad de Presas;Secretaría de Obras Públicas;Ministerio de Economía;;2737;22
+Organismo Regulador del Sistema Nacional de Aeropuertos;Secretaría de Transporte;Ministerio de Economía;;8122;160
+Servicio Geológico Minero Argentino;Secretaría de Minería;Ministerio de Economía;;10382;644
+Servicio Nacional de Sanidad y Calidad Agroalimentaria;Secretaría de Agricultura, Ganadería y Pesca;Ministerio de Economía;;166157;3602
+Superintendencia de Seguros de la Nación;Ministerio de Economía;Ministerio de Economía;;30246;676
+Tribunal de Tasaciones de la Nación;Secretaría de Obras Públicas;Ministerio de Economía;;3105;156
+Tribunal Fiscal de la Nación;Subsecretaría de Ingresos Públicos;Ministerio de Economía;;12360;258
+Centro Internacional para la Promoción de los Derechos Humanos;Secretaría de Derechos Humanos;Ministerio de Justicia;;700;66
+Procuración del Tesoro de la Nación;Ministerio de Justicia;Ministerio de Justicia;;5312;241
+Unidad de Información Financiera;Ministerio de Justicia;Ministerio de Justicia;;11567;640
+Ministerio de Relaciones Exteriores, Comercio Internacional y Culto;Presidencia de la Nación;Ministerio de Relaciones Exteriores;Comercio Internacional y Culto;621119;2708
+Administración Nacional de Laboratorios e Institutos de Salud 'Dr. Carlos Malbrán';Ministerio de Salud;Ministerio de Salud;;50537;2332
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Ministerio de Salud;Ministerio de Salud;;44218;1662
+Agencia Nacional de Discapacidad;Ministerio de Salud;Ministerio de Salud;;3194482;1562
+Hospital Nacional 'Profesor Alejandro Posadas';Subsecretaría de Institutos y Fiscalización;Ministerio de Salud;;239250;5146
+Hospital Nacional 'Baldomero Sommer';Subsecretaría de Institutos y Fiscalización;Ministerio de Salud;;43672;1434
+Hospital Nacional en Red Especializado en Salud Mental y Adicciones 'Lic. Laura Bonaparte';Subsecretaría de Institutos y Fiscalización;Ministerio de Salud;;20346;520
+Hospital Nacional y Comunidad Dr. Ramón Carrillo;Subsecretaría de Institutos y Fiscalización;Ministerio de Salud;;34824;1044
+Instituto Nacional Central Único Coordinador de Ablación e Implante;Secretaría de Calidad en Salud;Ministerio de Salud;;46320;302
+Instituto Nacional de Rehabilitación Psicofísica del Sur 'Dr. Juan Otimio Tesone';Subsecretaría de Institutos y Fiscalización;Ministerio de Salud;;13347;488
+Instituto Nacional del Cáncer;Secretaría de Calidad en Salud;Ministerio de Salud;;6532;68
+Superintendencia de Servicios de Salud;Ministerio de Salud;Ministerio de Salud;;137711;1588
+Agencia Nacional de Materiales Controlados;Ministerio de Seguridad;Ministerio de Seguridad;;0;108
+Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal;Secretaría de Coordinación Administrativa;Ministerio de Seguridad;;0;282
+Gendarmería Nacional Argentina;Ministerio de Seguridad;Ministerio de Seguridad;;1063200;40748
+Policía de Seguridad Aeroportuaria;Ministerio de Seguridad;Ministerio de Seguridad;;154287;5657
+Policía Federal Argentina;Ministerio de Seguridad;Ministerio de Seguridad;;765110;32549
+Prefectura Naval Argentina;Ministerio de Seguridad;Ministerio de Seguridad;;594412;23103
+Subsecretaría de Asuntos Penitenciarios;Ministerio de Seguridad;Ministerio de Seguridad;;401755;16654
+Ministerio Público;;Ministerio Público;;706602;10951
+Poder Judicial de la Nación;;Poder Judicial;;1760505;26959
+Auditoría General de la Nación;Poder Legislativo Nacional;Poder Legislativo;;0;3690
+Poder Legislativo Nacional;;Poder Legislativo;;594313;14402
+Autoridad Regulatoria Nuclear;Secretaría General;Presidencia de la Nación;Secretaría General;21202;668
+Secretaría de Inteligencia de Estado;Presidencia de la Nación;Presidencia de la Nación;Secretaría de Inteligencia de Estado;197237;5
+Secretaría Legal y Técnica;Presidencia de la Nación;Presidencia de la Nación;Secretaría Legal y Técnica;11320;488
+Sindicatura General de la Nación;Presidencia de la Nación;Presidencia de la Nación;;22415;860
+Banco Central de la República Argentina;Ministerio de Economía;Ministerio de Economía;;12131951;0
+Secretaría de Finanzas;Ministerio de Economía;Ministerio de Economía;;11667602;0

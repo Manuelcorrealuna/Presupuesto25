@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 20%;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.content {
+    width: 80%;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form select, form button {
+    margin-bottom: 10px;
+}
